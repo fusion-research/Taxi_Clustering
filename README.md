@@ -20,4 +20,4 @@ Clustering taxi trajectory points in Shenzhen by DBSCAN
   run **run.py**
 
 
-![result](https://raw.githubusercontent.com/fawks96/Taxi_Clustering/master/Figure.png)
+![result](https://github.com/fawks96/Taxi_Clustering/blob/master/Figure.png?raw=true)
