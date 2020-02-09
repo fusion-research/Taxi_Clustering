@@ -5,7 +5,7 @@ Clustering taxi trajectory points in Shenzhen by DBSCAN
 
 - **Dataset**
 
-  Shenzhen taxi pick-up/drop-off points
+  Shenzhen taxi pick-up/drop-off points (longitude and latitude of taxies). See in on_down_dataset directory.
   
 - **Algorithm**
 
@@ -14,10 +14,12 @@ Clustering taxi trajectory points in Shenzhen by DBSCAN
 - **Result**
 
   Clusters of pick-up / drop-off points
+  
+  
+  ![result](https://github.com/fawks96/Taxi_Clustering/blob/master/Figure.png?raw=true)
+
 
 - **Usage**
 
   run **run.py**
 
-
-![result](https://github.com/fawks96/Taxi_Clustering/blob/master/Figure.png?raw=true)
